@@ -16,8 +16,8 @@ Built with a Node.js backend, React frontend, and MongoDB database.
 [▶️ Watch FleetLink Demo](https://drive.google.com/file/d/1AKDVid0UJJk_pE_XfNQCN-64w7DyieVm/view?usp=sharing)
 
 ### 🖼️ Screenshots  
-- [Add Vehicle Success](https://drive.google.com/file/d/1YEMhfSkbegVzgdsN5q43nlxUiIminvJx/view?usp=sharing)  
-- [Booking Created](https://drive.google.com/file/d/1reZenHULRb5xjoQadT1m51qmAOPUjVkr/view?usp=sharing)  
+- [Database](https://drive.google.com/file/d/1YEMhfSkbegVzgdsN5q43nlxUiIminvJx/view?usp=sharing)  
+- [Avalaible Booking](https://drive.google.com/file/d/1reZenHULRb5xjoQadT1m51qmAOPUjVkr/view?usp=sharing)  
 
 ---
 
